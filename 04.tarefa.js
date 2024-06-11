@@ -1,4 +1,4 @@
-// Faça um algoritmo seja par ou impar
+// Faça um algoritmo seja par ou impar 
 
 const ler = require('readline-sync');
 

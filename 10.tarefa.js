@@ -1,4 +1,4 @@
-//A prefeitura de Nova Lima abriu uma linha de crédito para os funcionários estatutários.
+//A prefeitura de Nova Lima abriu uma linha de crédito para os funcionários estatutários. 
 
 const ler = require('readline-sync');
 

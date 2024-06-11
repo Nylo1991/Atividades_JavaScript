@@ -1,4 +1,4 @@
-// O IMC
+// O IMC 
 
 const ler = require('readline-sync');
 

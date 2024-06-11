@@ -1,4 +1,4 @@
-// Soma A + B + C
+// Soma A + B + C 
 
 const ler = require('readline-sync');
 

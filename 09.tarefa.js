@@ -1,4 +1,4 @@
-//é múltiplo de 3” ou “não é múltiplo de 3”.
+//é múltiplo de 3” ou “não é múltiplo de 3”. 
 
 const ler = require('readline-sync');
 

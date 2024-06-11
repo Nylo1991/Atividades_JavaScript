@@ -9,7 +9,7 @@ soma = num1 + num2;
 
 if (soma > 20) {  
     soma = soma + 8;
-    console.log("o resultado foi: " + soma);
+    console.log("o resultado foi: " + soma); 
     
 } else if (soma < 20){
    soma = soma - 5 ; 

@@ -1,4 +1,4 @@
-// valor do produto a ser pago
+// valor do produto a ser pago 
 
 const ler = require('readline-sync');
 
