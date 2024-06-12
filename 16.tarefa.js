@@ -1,0 +1,1 @@
+//ma empresa paga a seus funcionários R$ 5,00 de comissão para cada produto
